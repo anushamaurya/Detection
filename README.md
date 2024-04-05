@@ -1,6 +1,6 @@
 # Eye Detection Project
 
-This Python project uses OpenCV to detect eyes in images.
+This Python project uses OpenCV to detect eyes.
 
 ## Installation
 
